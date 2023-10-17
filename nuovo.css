@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color:  #264556;
+}
+
+
+.header{
+    display: flex;
+    flex: 1;
+    display: inline-block;
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.list{
+    list-style: none;
+    text-decoration: none;
+    font-family: "Pixelify Sans", sans-serif;
+}
